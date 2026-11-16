@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Sdelka.Domain\Sdelka.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

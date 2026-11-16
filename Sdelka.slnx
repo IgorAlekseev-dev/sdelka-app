@@ -2,5 +2,8 @@
   <Folder Name="/Элементы решения/">
     <File Path="README.md" />
   </Folder>
+  <Project Path="Sdelka.Application/Sdelka.Application.csproj" />
   <Project Path="Sdelka.Desktop/Sdelka.Desktop.csproj" />
+  <Project Path="Sdelka.Domain/Sdelka.Domain.csproj" />
+  <Project Path="Sdelka.Infrastructure/Sdelka.Infrastructure.csproj" />
 </Solution>
